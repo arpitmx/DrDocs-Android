@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959332799867",
+    "project_id": "drdocs-8e40a",
+    "storage_bucket": "drdocs-8e40a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959332799867:android:55aa604d68d912564119de",
+        "android_client_info": {
+          "package_name": "com.ncs.drdocs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959332799867-a9ojshlbk3p7dl6fn53ucu1o7v7h2jme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlfLb2oeweN34NjUwBC-p6VdekggL12jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959332799867-a9ojshlbk3p7dl6fn53ucu1o7v7h2jme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
