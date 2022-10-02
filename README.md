@@ -1,4 +1,6 @@
 # DrDocs-Android
+![logo](https://user-images.githubusercontent.com/59350776/193441002-4e0dd7ee-b775-49b6-849b-7582078acabf.jpg)
+
 
 Repository for android client of Dr.Docs for Devfolio hackathon, Hack VSIT-4
 
@@ -12,7 +14,10 @@ Team members :
  4. Vivek Singh
  
  Devfolio link : https://devfolio.co/projects/drdocs-480d
-
+ Github link (Android ) : https://github.com/arpitmx/Dr.Docs
+ Github link (Web and backend) : https://github.com/arpitmx/Dr.Docs
+ Figma design link : https://www.figma.com/file/rvciiJKA38PhF5Q4J11tSk/Doctor-Dox?node-id=0%3A1
+ 
 # Problems Dr.Docs solves
 
  1.	Difficulty in diagnosing a patient without previous medical history/records.
