@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/my_reports"
+        android:icon="@drawable/ic_files"
+        android:title="@string/Reports"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/my_sessions"
+        android:icon="@drawable/ic_sessionnew"
+        android:title="@string/Sessions"
+        android:enabled="true"
+        />
+    <item
+        android:id="@+id/my_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/profile"
+        android:enabled="true"
+        />
+
+
+
+
+
+</menu>

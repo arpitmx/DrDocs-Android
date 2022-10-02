@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Dr.Docs</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="Reports">Reports</string>
+    <string name="Sessions">Sessions</string>
+    <string name="profile">Profile</string>
 </resources>
